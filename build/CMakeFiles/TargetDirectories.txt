@@ -1,0 +1,4 @@
+/home/vagrant/c-project/build/CMakeFiles/rebuild_cache.dir
+/home/vagrant/c-project/build/CMakeFiles/edit_cache.dir
+/home/vagrant/c-project/build/CMakeFiles/app.dir
+/home/vagrant/c-project/build/CMakeFiles/util.dir

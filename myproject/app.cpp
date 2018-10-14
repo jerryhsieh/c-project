@@ -2,8 +2,7 @@
 #include "./util/util.hpp"
 #include <iostream>
 
-int main()
-{
+int main() {
 
   MyAdd my_obj;
   Util my_util;
@@ -13,5 +12,3 @@ int main()
   std::cout << my_obj.add(2, 3) << "\n";
   return 0;
 }
-
-
